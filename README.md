@@ -4,7 +4,7 @@
 <h3 align="center">Software Engineering Undergraduate | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-🚀 I build modern, scalable, and user-friendly web applications  
+🚀 I design and build full-stack web applications with clean architecture, responsive UI, and scalable backend systems  
 💡 Passionate about clean code, system design, and continuous learning  
 📍 Sri Lanka  
 </p>
@@ -13,8 +13,14 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+PHP+%7C+MySQL+Developer;Passionate+Problem+Solver;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+PHP+%7C+MySQL+Developer;Problem+Solver+%7C+Clean+Code+Enthusiast;Always+Learning+New+Technologies" />
 </p>
+
+---
+
+## 🎯 What I'm Looking For
+
+I am actively seeking **Software Engineering Internship opportunities** where I can contribute, learn, and grow as a developer in real-world environments.
 
 ---
 
@@ -32,8 +38,8 @@
 - 💻 Full Stack Developer (React + PHP + MySQL + Node.js)  
 - 🌱 Currently learning Advanced React, Node.js, Express.js, MongoDB  
 - 🛠️ I enjoy building real-world systems with clean UI & solid backend  
-- 🎯 Goal: Become a Professional Software Engineer / Full Stack Engineer  
 - ⚡ Interested in AI integration, backend systems & scalable architectures  
+- 🤝 Team player with experience in Git-based collaboration  
 
 ---
 
@@ -45,12 +51,22 @@
 
 ---
 
+## 🏆 Highlights
+
+- 🧩 Built 5+ full-stack applications  
+- 🔐 Implemented authentication & CRUD systems  
+- 📊 Developed admin dashboards with analytics  
+- 🤝 Worked on team-based university project using Git  
+- 🚀 Deployed real-world projects using Vercel & local servers  
+
+---
+
 ## 📂 Featured Projects
 
 ### 🤖 CV Analyzer System (AI System - 2025)
 AI-powered recruitment system that analyzes CVs and generates candidate insights.
 
-- CV parsing & data extraction  
+- Automated CV parsing & data extraction  
 - Skill classification engine  
 - Smart candidate summary generation  
 - Recruitment workflow optimization  
@@ -62,10 +78,10 @@ AI-powered recruitment system that analyzes CVs and generates candidate insights
 ### 📦 Inventory Management System (2024)
 Full-stack business system for managing stock, products, and sales.
 
-- Product & inventory management  
-- Stock tracking system  
-- Sales dashboard  
-- CRUD operations  
+- Product & inventory management system  
+- Stock tracking dashboard  
+- Sales monitoring system  
+- CRUD operations with validation  
 
 **Tech Stack:** PHP, MySQL, Bootstrap, JavaScript  
 
@@ -74,9 +90,9 @@ Full-stack business system for managing stock, products, and sales.
 ### 💪 Gym Management System (2024)
 Web application for managing gym operations.
 
-- Member registration & login  
+- Member registration & authentication  
 - Attendance tracking system  
-- Payment management  
+- Payment management module  
 - Admin dashboard  
 
 **Tech Stack:** PHP, MySQL, HTML, CSS, Bootstrap  
@@ -167,8 +183,8 @@ Modern developer portfolio with animations and deployment.
 
 ---
 
-## ⭐ Final Quote
+## ⭐ Closing Note
 
 <p align="center">
-🔥 “Consistency + Practice = Real Growth” 🔥
+🔥 “Consistency + Practice = Real Growth” 🔥  
 </p>
