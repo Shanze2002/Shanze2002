@@ -1,27 +1,32 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
+
 <h3 align="center">Software Engineering Undergraduate | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  Passionate Software Engineering student from Sri Lanka who enjoys building modern, scalable web applications and continuously learning new technologies.
+🚀 Passionate about building modern, scalable, and user-friendly web applications  
+💡 Always learning new technologies and improving problem-solving skills  
+📍 Sri Lanka
 </p>
 
 ---
 
 ## 🌐 Portfolio
-🔗 Live Portfolio:  
-https://portfolio-psi-red-nj455epuzz.vercel.app/
+
+<p align="center">
+🔗 <a href="https://portfolio-psi-red-nj455epuzz.vercel.app/">Live Portfolio Website</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Software Engineering Undergraduate  
-- 💻 Full Stack Web Developer  
-- 🌱 Currently learning React, Node.js, Express.js, REST APIs  
-- 🛠️ Building real-world projects with modern tech stacks  
+- 💻 Full Stack Web Developer (React + PHP + MySQL)  
+- 🌱 Currently improving React, Node.js, Express.js & REST APIs  
+- 🛠️ I build real-world projects with clean UI + solid backend  
 - 🎯 Goal: Become a Professional Full Stack Software Engineer  
-- ⚡ Passionate about clean UI, scalable backend systems, and problem solving  
+- ⚡ Interested in system design, backend architecture & AI integration  
 
 ---
 
@@ -30,6 +35,80 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,mysql,java,cpp,js,html,css,bootstrap,git,github,vscode,vercel,flutter" />
 </p>
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 CV Analyzer System (AI System - 2025)
+AI-powered recruitment system for CV parsing and candidate evaluation.
+
+- CV parsing & data extraction  
+- Skill classification engine  
+- Smart candidate summaries  
+- Recruitment workflow optimization  
+
+**Tech:** React, Node.js, Express, MySQL  
+
+---
+
+### 📦 Inventory Management System (2024)
+Full-stack business system for stock & sales management.
+
+- Product & stock management  
+- Sales tracking dashboard  
+- CRUD operations  
+- Admin analytics panel  
+
+**Tech:** PHP, MySQL, Bootstrap, JavaScript  
+
+---
+
+### 💪 Gym Management System (2024)
+Web-based system for gym operations management.
+
+- Member registration & authentication  
+- Attendance tracking  
+- Payment management  
+- Admin dashboard  
+
+**Tech:** PHP, MySQL, HTML, CSS, Bootstrap  
+
+---
+
+### 🏫 School Management System (Group Project - 2025)
+Full-stack web + mobile system for school operations.
+
+- Student & teacher management  
+- Attendance & timetable system  
+- Results management  
+- Mobile app integration  
+- Team collaboration using Git  
+
+**Tech:** React, PHP, MySQL, Flutter  
+
+---
+
+### 🌐 Personal Portfolio Website (2026)
+Modern developer portfolio with animations and deployment.
+
+- Responsive UI/UX design  
+- Framer Motion animations  
+- Project showcase  
+- Contact integration  
+- Deployed on Vercel  
+
+**Tech:** React, Framer Motion  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns  
+- Node.js & Express backend architecture  
+- MongoDB & NoSQL databases  
+- System design fundamentals  
+- Deployment & DevOps basics  
 
 ---
 
@@ -49,33 +128,11 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shanze2002&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanze2002&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
----
-
-## 📂 Featured Projects
-
-| 🚀 Project | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| CV Analyzer System | AI-based CV parsing & candidate analysis system | React, Node.js, Express, MySQL | ✅ Completed |
-| Inventory Management System | Stock & sales management system for businesses | PHP, MySQL, Bootstrap, JS | ✅ Completed |
-| Gym Management System | Member, attendance & payment management system | PHP, MySQL, HTML, CSS | ✅ Completed |
-| School Management System | Web + Mobile system for school operations | React, PHP, MySQL, Flutter | ✅ Completed |
-| Personal Portfolio Website | Developer portfolio with animations & Vercel deploy | React, Framer Motion | 🚀 Live |
-
----
-
-## 🌱 Currently Learning
-
-- React Advanced Patterns  
-- Node.js & Express APIs  
-- MongoDB & NoSQL Databases  
-- System Design Basics  
-- Deployment & Cloud Services  
 
 ---
 
@@ -83,11 +140,11 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 
 <p align="center">
   <a href="https://portfolio-psi-red-nj455epuzz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" />
   </a>
 
   <a href="https://github.com/Shanze2002">
-    <img src="https://img.shields.io/badge/GitHub-Shanze2002-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 
   <a href="mailto:shanzeboy@gmail.com">
@@ -100,11 +157,13 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanze2002&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Shanze2002&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## ⭐ Closing
+## ⭐ Closing Note
 
-> “Consistency beats talent when talent doesn’t work hard.”
+<p align="center">
+💡 “Code. Build. Improve. Repeat.”  
+</p>
