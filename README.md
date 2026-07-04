@@ -56,13 +56,38 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 
 ## 📂 Featured Projects
 
-### 💪 FitZone Gym Management System
+# CV Analyzer System
 
-* User Authentication
-* Trainer Management
-* Meal Plans
-* Responsive Dashboard
-* PHP, MySQL, Bootstrap
+## Overview
+
+The CV Analyzer System is an AI-assisted recruitment platform designed to automate CV analysis and candidate evaluation. It extracts information from resumes, identifies technical skills and experience, and generates concise candidate summaries to support recruitment decisions.
+
+## Features
+
+* Automated CV parsing and information extraction
+* AI-powered skill classification
+* Experience analysis
+* Smart candidate summary generation
+* Recruiter-friendly dashboard
+* Secure database management
+
+## Tech Stack
+
+* React
+* Node.js
+* Express.js
+* MySQL
+
+## Future Improvements
+
+* Resume ranking using AI
+* PDF and DOCX support
+* Interview recommendation system
+* Job matching engine
+
+## Author
+
+Muhammad Anas
 
 ---
 
@@ -75,32 +100,165 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 
 ---
 
-### 📦 React Inventory Management System
+# Inventory Management System
 
-* Product Management
-* CRUD Operations
-* Modern React UI
+## Overview
+
+A full-stack inventory management system developed to simplify product management, stock monitoring, and sales tracking for small and medium-sized businesses.
+
+## Features
+
+* Product CRUD operations
+* Stock management
+* Sales tracking
+* Admin dashboard
+* Data validation
+* Responsive interface
+
+## Tech Stack
+
+* PHP
+* MySQL
+* Bootstrap
+* JavaScript
+
+## Future Improvements
+
+* Barcode scanning
+* Export reports to PDF and Excel
+* Multi-user authentication
+* Email notifications
+
+## Author
+
+Muhammad Anas
 
 ---
 
-### ⚾ Baseball Club Management System
+# Gym Management System
 
-* Player Management
-* Team Management
-* Search Functionality
-* C++
+## Overview
+
+A web-based management system developed for fitness centers to manage members, trainers, attendance, and payments efficiently.
+
+## Features
+
+* Member registration
+* Secure login system
+* Attendance tracking
+* Payment management
+* Trainer management
+* Admin dashboard
+
+## Tech Stack
+
+* PHP
+* MySQL
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+
+## Future Improvements
+
+* Online membership renewal
+* QR code attendance
+* Workout planner
+* Meal plan recommendations
+
+## Author
+
+Muhammad Anas
+
 
 ---
+
+# School Management System
+
+## Overview
+
+A full-stack group project consisting of both web and mobile applications for managing school operations efficiently. The system enables administrators, teachers, students, and parents to access and manage academic information through dedicated platforms.
+
+## Features
+
+* Student management
+* Teacher management
+* Attendance management
+* Timetable management
+* Examination and result management
+* Parent and student mobile application
+* Role-based authentication
+* Git-based team collaboration
+
+## Tech Stack
+
+### Web
+
+* React
+* PHP
+* MySQL
+
+### Mobile
+
+* Flutter / Android
+
+### Version Control
+
+* Git & GitHub
+
+## Team Project
+
+This project was developed collaboratively as part of a Software Engineering group project.
+
+## Future Improvements
+
+* Push notifications
+* Online fee payment
+* Parent-teacher communication
+* AI-powered student performance analytics
+
+## Author
+
+Developed as a Group Project
+
+
+---
+
 
 ### 🌐 Personal Portfolio Website
 
-* Responsive Design
-* React
-* Framer Motion
-* Vercel Deployment
+Modern Developer Portfolio • 2026
+
+A modern and fully responsive portfolio website built to showcase my software engineering projects, technical skills, and professional profile. The portfolio features smooth animations, a clean UI, and fast deployment using Vercel.
+
+✨ Key Features
+
+Modern responsive design for all devices
+
+Smooth animations with Framer Motion
+
+Projects showcase section
+
+Skills and technologies display
+
+Downloadable CV integration
+
+Contact and social media links
+
+Optimized deployment on Vercel
+
+🛠️ Tech Stack
+
+ReactFramer MotionJavaScriptCSS3Vercel
+
+Live Demo
+
+[https://portfolio-psi-red-nj455epuzz.vercel.app/](https://portfolio-psi-red-nj455epuzz.vercel.app/)
+
+### Portfolio code එකට short version එක
+
 
 ---
-
 ## 📈 Currently Learning
 
 * React Ecosystem
@@ -114,8 +272,8 @@ https://portfolio-psi-red-nj455epuzz.vercel.app/
 ## 📫 Connect With Me
 
 * 🌐 Portfolio: https://portfolio-psi-red-nj455epuzz.vercel.app/
-* 💼 GitHub: https://github.com/YOUR_USERNAME
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 GitHub: https://https://github.com/Shanze2002
+* 📧 Email: [shanzeboy@gmail.com]
 
 ---
 
