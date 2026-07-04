@@ -1,14 +1,15 @@
-<!-- 🔥 BANNER -->
+
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:36bcf7&height=180&section=header&text=Muhammad%20Anas&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d6efd,100:0a58ca&height=180&section=header&text=Muhammad%20Anas&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- HERO HEADER -->
+<!-- ===================== INTRO ===================== -->
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 
 <h3 align="center">Software Engineering Undergraduate | Full Stack Developer | Problem Solver</h3>
 
-<p align="center">
+<p align="center" style="color:#0d6efd;">
 🚀 I design and build scalable full-stack applications with clean architecture and modern UI  
 💡 Passionate about software engineering, system design, and continuous learning  
 📍 Sri Lanka  
@@ -16,19 +17,21 @@
 
 ---
 
-<!-- TYPING -->
+<!-- ===================== TYPING ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+PHP+%7C+MySQL+Developer;Clean+Code+Enthusiast;Problem+Solver+%7C+System+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0d6efd&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+PHP+%7C+MySQL+Developer;Clean+Code+Enthusiast;System+Builder+%7C+Problem+Solver" />
 </p>
 
 ---
 
+<!-- ===================== OBJECTIVE ===================== -->
 ## 🎯 Internship Objective
 
-I am actively seeking **Software Engineering Internship opportunities** where I can apply my skills in real-world systems, contribute to production-level projects, and grow as a professional developer.
+I am actively seeking **Software Engineering Internship opportunities** where I can contribute to real-world systems, gain industry experience, and grow as a professional developer.
 
 ---
 
+<!-- ===================== PORTFOLIO ===================== -->
 ## 🌐 Portfolio
 
 <p align="center">
@@ -37,27 +40,30 @@ I am actively seeking **Software Engineering Internship opportunities** where I 
 
 ---
 
+<!-- ===================== ABOUT ===================== -->
 ## 🚀 About Me
 
 - 🎓 Software Engineering Undergraduate  
 - 💻 Full Stack Developer (React + PHP + MySQL + Node.js)  
-- 🌱 Learning Advanced React, Node.js, Express.js, MongoDB  
+- 🌱 Currently learning Advanced React, Node.js, Express.js, MongoDB  
 - 🛠️ Passionate about building real-world systems  
 - ⚡ Interested in backend architecture & scalable applications  
-- 🤝 Experienced in Git-based team collaboration  
+- 🤝 Experience in Git-based team collaboration  
 
 ---
 
-## 🏆 Impact Highlights
+<!-- ===================== HIGHLIGHTS ===================== -->
+## 🏆 Highlights
 
-- 🧩 Built 5+ full-stack production-style applications  
+- 🧩 Built 5+ full-stack production-level applications  
 - 🔐 Implemented authentication, authorization & CRUD systems  
-- 📊 Designed admin dashboards with real-time data views  
-- 🤝 Collaborated in university group software engineering project  
-- 🚀 Deployed applications using Vercel & local server environments  
+- 📊 Developed admin dashboards with analytics  
+- 🤝 Worked in university group software engineering project  
+- 🚀 Deployed projects using Vercel & local servers  
 
 ---
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -66,94 +72,102 @@ I am actively seeking **Software Engineering Internship opportunities** where I 
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ## 📂 Featured Projects
 
-### 🤖 CV Analyzer System (AI - 2025)
-AI-powered recruitment system for automated CV analysis and candidate evaluation.
+<p align="center">
+
+### 🤖 CV Analyzer System (AI • 2025)
+💡 AI-powered CV analysis and candidate evaluation system.
 
 - CV parsing & structured data extraction  
 - Skill classification engine  
 - Intelligent candidate summaries  
 - Recruitment workflow optimization  
 
-**Tech Stack:** React, Node.js, Express.js, MySQL  
+**Tech Stack:** `React` • `Node.js` • `Express.js` • `MySQL`
 
 ---
 
 ### 📦 Inventory Management System (2024)
-Business system for stock, product, and sales management.
+💡 Business system for stock, sales, and product management.
 
-- Inventory & stock tracking  
-- Sales monitoring dashboard  
-- Product CRUD with validation  
-- Admin analytics panel  
+- Inventory tracking system  
+- Sales dashboard  
+- CRUD operations  
+- Admin analytics  
 
-**Tech Stack:** PHP, MySQL, Bootstrap, JavaScript  
+**Tech Stack:** `PHP` • `MySQL` • `Bootstrap` • `JavaScript`
 
 ---
 
 ### 💪 Gym Management System (2024)
-Web application for gym operations management.
+💡 Web system for managing gym members and payments.
 
-- Member registration & authentication  
-- Attendance tracking system  
-- Payment management module  
-- Admin control dashboard  
+- Member authentication system  
+- Attendance tracking  
+- Payment management  
+- Admin dashboard  
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, Bootstrap  
+**Tech Stack:** `PHP` • `MySQL` • `HTML` • `CSS` • `Bootstrap`
 
 ---
 
-### 🏫 School Management System (Group Project - 2025)
-Full-stack + mobile system for academic management.
+### 🏫 School Management System (Group Project • 2025)
+💡 Full-stack + mobile system for academic management.
 
-- Student & teacher management system  
-- Attendance & timetable modules  
+- Student & teacher management  
+- Attendance & timetable system  
 - Result management system  
 - Mobile app integration  
-- Git-based team collaboration  
+- Git collaboration  
 
-**Tech Stack:** React, PHP, MySQL, Flutter  
+**Tech Stack:** `React` • `PHP` • `MySQL` • `Flutter`
 
 ---
 
 ### 🌐 Personal Portfolio Website (2026)
-Modern developer portfolio with animations and deployment.
+💡 Modern developer portfolio with animations.
 
-- Responsive UI/UX design  
+- Responsive UI design  
 - Framer Motion animations  
-- Project showcase section  
-- Contact form integration  
+- Project showcase  
+- Contact integration  
 - Deployed on Vercel  
 
-**Tech Stack:** React, Framer Motion, Vercel  
+**Tech Stack:** `React` • `Framer Motion` • `Vercel`
+
+</p>
 
 ---
 
+<!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shanze2002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanze2002&show_icons=true&theme=blueberry&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanze2002&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanze2002&layout=compact&theme=blueberry&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shanze2002&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shanze2002&theme=blueberry&hide_border=true" />
 </p>
 
 ---
 
+<!-- ===================== ACTIVITY ===================== -->
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanze2002&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanze2002&theme=react-dark" />
 </p>
 
 ---
 
+<!-- ===================== SNAKE ===================== -->
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -162,32 +176,37 @@ Modern developer portfolio with animations and deployment.
 
 ---
 
+<!-- ===================== CONTACT ===================== -->
 ## 📫 Connect With Me
 
 <p align="center">
+
   <a href="https://portfolio-psi-red-nj455epuzz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-0d6efd?style=for-the-badge&logo=vercel" />
   </a>
 
   <a href="https://github.com/Shanze2002">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github" />
   </a>
 
   <a href="mailto:shanzeboy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-0d6efd?style=for-the-badge&logo=gmail" />
   </a>
+
 </p>
 
 ---
 
+<!-- ===================== VIEWS ===================== -->
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanze2002&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Shanze2002&style=for-the-badge&color=0d6efd" />
 </p>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
 ## ⭐ Closing Note
 
 <p align="center">
