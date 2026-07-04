@@ -1,280 +1,110 @@
-# Hi there 👋, I'm Muhammad Anas
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
+<h3 align="center">Software Engineering Undergraduate | Full Stack Developer | Problem Solver</h3>
 
-### Software Engineering Undergraduate | Full Stack Developer | Passionate Problem Solver
-
-I'm a Software Engineering student from Sri Lanka who enjoys building modern web applications and continuously learning new technologies. I have experience developing full-stack projects using React, PHP, MySQL, Java, C++, and JavaScript, with a strong interest in creating responsive, user-friendly applications.
+<p align="center">
+  Passionate Software Engineering student from Sri Lanka who enjoys building modern, scalable web applications and continuously learning new technologies.
+</p>
 
 ---
 
 ## 🌐 Portfolio
-
-**Live Portfolio:**
+🔗 Live Portfolio:  
 https://portfolio-psi-red-nj455epuzz.vercel.app/
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Software Engineering Undergraduate
-* 💻 Passionate about Full Stack Web Development
-* 🌱 Currently learning React, Node.js, Express.js, and REST APIs
-* 🛠️ Building real-world software projects
-* 🎯 Goal: Become a Full Stack Software Engineer
+- 🎓 Software Engineering Undergraduate  
+- 💻 Full Stack Web Developer  
+- 🌱 Currently learning React, Node.js, Express.js, REST APIs  
+- 🛠️ Building real-world projects with modern tech stacks  
+- 🎯 Goal: Become a Professional Full Stack Software Engineer  
+- ⚡ Passionate about clean UI, scalable backend systems, and problem solving  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,php,mysql,java,cpp,js,html,css,bootstrap,git,github,vscode,vercel,flutter" />
+</p>
 
-* React
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
+---
 
-### Backend
+## 📊 GitHub Stats
 
-* PHP
-* Java
-* C++
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shanze2002&show_icons=true&theme=tokyonight" />
+</p>
 
-### Database
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanze2002&layout=compact&theme=tokyonight" />
+</p>
 
-* MySQL
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shanze2002&theme=tokyonight" />
+</p>
 
-### Tools
+---
 
-* Git
-* GitHub
-* VS Code
-* Android Studio
-* XAMPP
-* Vercel
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shanze2002&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-# CV Analyzer System
-
-## Overview
-
-The CV Analyzer System is an AI-assisted recruitment platform designed to automate CV analysis and candidate evaluation. It extracts information from resumes, identifies technical skills and experience, and generates concise candidate summaries to support recruitment decisions.
-
-## Features
-
-* Automated CV parsing and information extraction
-* AI-powered skill classification
-* Experience analysis
-* Smart candidate summary generation
-* Recruiter-friendly dashboard
-* Secure database management
-
-## Tech Stack
-
-* React
-* Node.js
-* Express.js
-* MySQL
-
-## Future Improvements
-
-* Resume ranking using AI
-* PDF and DOCX support
-* Interview recommendation system
-* Job matching engine
-
-## Author
-
-Muhammad Anas
+| 🚀 Project | Description | Tech Stack | Status |
+|------------|-------------|------------|--------|
+| CV Analyzer System | AI-based CV parsing & candidate analysis system | React, Node.js, Express, MySQL | ✅ Completed |
+| Inventory Management System | Stock & sales management system for businesses | PHP, MySQL, Bootstrap, JS | ✅ Completed |
+| Gym Management System | Member, attendance & payment management system | PHP, MySQL, HTML, CSS | ✅ Completed |
+| School Management System | Web + Mobile system for school operations | React, PHP, MySQL, Flutter | ✅ Completed |
+| Personal Portfolio Website | Developer portfolio with animations & Vercel deploy | React, Framer Motion | 🚀 Live |
 
 ---
 
-### 🏨 Hotel Management System
-
-* Room Booking
-* Food Ordering
-* Activity Management
-* Customer Dashboard
-
----
-
-# Inventory Management System
-
-## Overview
-
-A full-stack inventory management system developed to simplify product management, stock monitoring, and sales tracking for small and medium-sized businesses.
-
-## Features
-
-* Product CRUD operations
-* Stock management
-* Sales tracking
-* Admin dashboard
-* Data validation
-* Responsive interface
-
-## Tech Stack
-
-* PHP
-* MySQL
-* Bootstrap
-* JavaScript
-
-## Future Improvements
-
-* Barcode scanning
-* Export reports to PDF and Excel
-* Multi-user authentication
-* Email notifications
-
-## Author
-
-Muhammad Anas
-
----
-
-# Gym Management System
-
-## Overview
-
-A web-based management system developed for fitness centers to manage members, trainers, attendance, and payments efficiently.
-
-## Features
-
-* Member registration
-* Secure login system
-* Attendance tracking
-* Payment management
-* Trainer management
-* Admin dashboard
-
-## Tech Stack
-
-* PHP
-* MySQL
-* HTML5
-* CSS3
-* Bootstrap
-* JavaScript
-
-## Future Improvements
-
-* Online membership renewal
-* QR code attendance
-* Workout planner
-* Meal plan recommendations
-
-## Author
-
-Muhammad Anas
-
-
----
-
-# School Management System
-
-## Overview
-
-A full-stack group project consisting of both web and mobile applications for managing school operations efficiently. The system enables administrators, teachers, students, and parents to access and manage academic information through dedicated platforms.
-
-## Features
-
-* Student management
-* Teacher management
-* Attendance management
-* Timetable management
-* Examination and result management
-* Parent and student mobile application
-* Role-based authentication
-* Git-based team collaboration
-
-## Tech Stack
-
-### Web
-
-* React
-* PHP
-* MySQL
-
-### Mobile
-
-* Flutter / Android
-
-### Version Control
-
-* Git & GitHub
-
-## Team Project
-
-This project was developed collaboratively as part of a Software Engineering group project.
-
-## Future Improvements
-
-* Push notifications
-* Online fee payment
-* Parent-teacher communication
-* AI-powered student performance analytics
-
-## Author
-
-Developed as a Group Project
-
-
----
-
-
-### 🌐 Personal Portfolio Website
-
-Modern Developer Portfolio • 2026
-
-A modern and fully responsive portfolio website built to showcase my software engineering projects, technical skills, and professional profile. The portfolio features smooth animations, a clean UI, and fast deployment using Vercel.
-
-✨ Key Features
-
-Modern responsive design for all devices
-
-Smooth animations with Framer Motion
-
-Projects showcase section
-
-Skills and technologies display
-
-Downloadable CV integration
-
-Contact and social media links
-
-Optimized deployment on Vercel
-
-🛠️ Tech Stack
-
-ReactFramer MotionJavaScriptCSS3Vercel
-
-Live Demo
-
-[https://portfolio-psi-red-nj455epuzz.vercel.app/](https://portfolio-psi-red-nj455epuzz.vercel.app/)
-
-### Portfolio code එකට short version එක
-
-
----
-## 📈 Currently Learning
-
-* React Ecosystem
-* Node.js
-* Express.js
-* REST APIs
-* MongoDB
+## 🌱 Currently Learning
+
+- React Advanced Patterns  
+- Node.js & Express APIs  
+- MongoDB & NoSQL Databases  
+- System Design Basics  
+- Deployment & Cloud Services  
 
 ---
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: https://portfolio-psi-red-nj455epuzz.vercel.app/
-* 💼 GitHub: https://https://github.com/Shanze2002
-* 📧 Email: [shanzeboy@gmail.com]
+<p align="center">
+  <a href="https://portfolio-psi-red-nj455epuzz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Shanze2002">
+    <img src="https://img.shields.io/badge/GitHub-Shanze2002-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:shanzeboy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shanze2002&color=blue" />
+</p>
+
+---
+
+## ⭐ Closing
+
+> “Consistency beats talent when talent doesn’t work hard.”
